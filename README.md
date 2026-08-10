@@ -119,7 +119,6 @@ The external plume is not modelled. The domain ends at the nozzle exit, so any s
 
 **Pratyush Dash**
 
-B.Tech Chemical Engineering, KIIT University, Bhubaneswar
 
 B.Tech Chemical Engineering, KIIT University, Bhubaneswar
   
